@@ -24,6 +24,11 @@ Run the game with the following command:
 ```
 python3 main.py
 ```
+can be found here
+```
+https://pypi.org/project/eaddaa-game/0.1.0/
+```
+
 Feel free to explore and enjoy the game!
 
 
