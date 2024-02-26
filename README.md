@@ -1,14 +1,41 @@
-<<<<<<< HEAD
-# eaddaa Game
+eaddaa Game is an exciting project with a focus on creating a number guessing game. The primary objective is to provide an engaging and enjoyable user experience through a simple yet entertaining game.
 
-A simple text-based game project.
+Installation
+To install eaddaa_game on your local machine, follow these steps:
 
-## How to Play
+Clone the repository:
 
-Run the following command in your terminal:
+```
+git clone https://github.com/eaddaa/eaddaa_game.git
+```
+Navigate to the project directory:
+```
+cd eaddaa_game
 
-```bash
-eaddaa-game
-=======
-# eaddaa_game
->>>>>>> 3a3dd9485816484f69e5c94fceb2b6ae480cf450
+```
+Install the required dependencies:
+
+```
+
+pip install -r requirements.txt
+```
+Usage
+Run the game with the following command:
+```
+python3 main.py
+```
+can be found here
+```
+https://pypi.org/project/eaddaa-game/0.1.0/
+```
+
+Feel free to explore and enjoy the game!
+
+
+
+
+
+
+
+
+
