@@ -1,0 +1,8 @@
+README.md
+setup.py
+eaddaa_game.egg-info/PKG-INFO
+eaddaa_game.egg-info/SOURCES.txt
+eaddaa_game.egg-info/dependency_links.txt
+eaddaa_game.egg-info/entry_points.txt
+eaddaa_game.egg-info/requires.txt
+eaddaa_game.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+eaddaa-game = eaddaa_game.game_logic:play_game
+
