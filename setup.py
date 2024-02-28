@@ -5,7 +5,7 @@ setup(
     version='0.1.3',
     packages=find_packages(),
     install_requires=[
-        'tea_weather_app==0.1.0',
+        'tea_weather_app==0.1.3',
     ],
     entry_points={
         'console_scripts': [
